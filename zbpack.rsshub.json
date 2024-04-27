@@ -1,6 +1,5 @@
 {
     "provider": "nodejs",
-    "installCmd": "pnpm i",
     "build_command": "pnpm build",
     "start_command": "pnpm start",
     "serverless": true
